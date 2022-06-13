@@ -15,13 +15,13 @@ Surgical video datasets
  <!-- EndoVis2015 -->
   <tr>
     <td align="center">
-      <a href="https://cholectriplet2021.grand-challenge.org/">CholecT50</a>
+      <a href="https://endovissub-instrument.grand-challenge.org">EndoVis2015</a>
     </td>
     <td align="center">
-      Every frame is annotated with labels from the triplet: instrument, verb and target for the recognition of instrument-tissue interaction in laparoscopic cholecystectomies. This novel challenge investigates the state-of-the-art on surgical fine-grained activity recognition.
+     Segmentation: Can you segment the surgical instruments in an endoscopic image? Tracking: Can you track the surgical instruments in an endoscopic image sequence? 
     </td>
-    <td align="center">action, tools, tissue</td>
-    <td align="center">50</td>
+    <td align="center">Robotic instrument</td>
+    <td align="center"></td>
     <td align="center">
       N/A
     </td>
