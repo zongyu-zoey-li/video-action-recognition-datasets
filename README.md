@@ -12,7 +12,20 @@ Surgical video datasets
   <tr>
     <td align="center">Dataset</td> <td align="center">Task</td> <td align="center">Annotations</td> <td align="center">Procedures</td> <td align="center">Paper</td>
   </tr>
-  
+ <!-- EndoVis2015 -->
+  <tr>
+    <td align="center">
+      <a href="https://cholectriplet2021.grand-challenge.org/">CholecT50</a>
+    </td>
+    <td align="center">
+      Every frame is annotated with labels from the triplet: instrument, verb and target for the recognition of instrument-tissue interaction in laparoscopic cholecystectomies. This novel challenge investigates the state-of-the-art on surgical fine-grained activity recognition.
+    </td>
+    <td align="center">action, tools, tissue</td>
+    <td align="center">50</td>
+    <td align="center">
+      N/A
+    </td>
+  </tr>  
   <!-- CholecT50 -->
   <tr>
     <td align="center">
