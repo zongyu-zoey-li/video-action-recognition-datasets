@@ -40,20 +40,7 @@ Surgical video datasets
       N/A
     </td>
   </tr>
-    <!-- Cholec80 -->
-  <tr>
-    <td align="center">
-      <a href="https://cholectriplet2021.grand-challenge.org/">Cholec80</a>
-    </td>
-    <td align="center">
-      an endoscopic video dataset containing 80 videos of cholecystectomy surgeries performed by 13 surgeons. The videos are captured at 25 fps and downsampled to 1 fps for processing. The whole dataset is labeled with the phase and tool presence annotations. The phases have been defined by a senior surgeon in Strasbourg hospital, France. Since the tools are sometimes hardly visible in the images and thus difficult to be recognized visually, a tool is defined as present in an image if at least half of the tool tip is visible
-    </td>
-    <td align="center">tools presence, phases</td>
-    <td align="center"> 80 videos of cholecystectomy surgeries performed by 13 surgeons. </td>
-    <td align="center">
-      N/A
-    </td>
-  </tr>
+
   <!-- Hei-Chole -->
   <tr>
     <td align="center">
